@@ -22,7 +22,7 @@
     <!-- spring -->
     <spring.version>5.0.2.RELEASE</spring.version>
     <!-- mysql驱动 -->
-    <mysql.version>5.1.44</mysql.version>
+    <mysql.version>8.0.16</mysql.version>
     <!-- mybatis相关依赖 -->
     <mybatis.version>3.4.5</mybatis.version>
     <pagehelper.version>5.1.2</pagehelper.version>
